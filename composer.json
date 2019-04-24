@@ -1,9 +1,10 @@
 {
-    "name": "renatocf88/hello-composer",
+    "name": "renatocf88d/hello-composer",
     "description": "My first packagist package",
     "type": "package",
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.3.0",
+        "renatocf88/hello-composer": "dev-master"
     },
     "authors": [
         {
